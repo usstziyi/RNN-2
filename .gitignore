@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# data
+data/
+datasets/
+
+# outputs
+outputs/
+recordings/
+
+# macos
+.DS_Store
+
+# openbci
+openbci-gui/
+
+# code-runner
+tempCodeRunnerFile.py
